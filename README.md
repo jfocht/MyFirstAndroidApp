@@ -1,7 +1,11 @@
 Android First App
 =================
 
-Source Code from following <http://developer.android.com/training/basics/firstapp/index.html>.
+Source Code from the Android basic training classes:
+
+    git tag    link
+    firstapp   <http://developer.android.com/training/basics/firstapp/index.html>
+    actionbar  <http://developer.android.com/training/basics/actionbar/index.html>
 
 Setup
 -----
